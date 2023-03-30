@@ -57,10 +57,6 @@ body * {
 #share-button button {
 	display: inline-block;
 	position: absolute;
-<<<<<<< HEAD
-=======
-	top: 0;
->>>>>>> 5c64c4d49e828a3e8fb372e9d63d70ce531cfa94
 	right: 0;
 	width: 40px;
     	height: 40px;
@@ -80,11 +76,7 @@ body * {
 #profile {
 	position: relative;
 	text-align: center;
-<<<<<<< HEAD
 	padding: 24px 0;
-=======
-	margin: 24px 0;
->>>>>>> 5c64c4d49e828a3e8fb372e9d63d70ce531cfa94
 }
 
 #profile img {
