@@ -27,8 +27,8 @@
 	</head>
 
 	<body>
-		<div id="container">
-			<div id="profile">
+		<main id="container">
+			<section id="profile">
 				<div id="share-button" onclick="share()">
 					<button></button>
 				</div>
@@ -37,12 +37,12 @@
 
 				<p><b>FASTXYZ</b></p>
 				<p>Web Developer</p>
-			</div>
+			</section>
 
-			<div id="theme-switcher" onclick="switchTheme()">
+			<section id="theme-switcher" onclick="switchTheme()">
 				<button></button>
 				<span></span>
-			</div>
+			</section>
 
 			<ul>
 				<li>
@@ -50,11 +50,11 @@
 				</li>
 
 				<li>
-					<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3J8EOeKLTLXORtWPpOU5bE" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+					<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3J8EOeKLTLXORtWPpOU5bE" width="100%" height="100" frameBorder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 				</li>
 			</ul>
 
-			<div id="social-media">
+			<section id="social-media">
 				<a href="mailto:danieeel.dev@gmail.com" target="_blank">
 					<i class="fa-regular fa-envelope"></i>
 				</a>
@@ -78,12 +78,14 @@
 				<a href="https://open.spotify.com/user/e5m4ip4gvvjxrxmsl21vechm3" target="_blank">
 					<i class="fa-brands fa-spotify"></i>
 				</a>
-			</div>
+			</section>
 
 			<footer>
-				<p><i class="fa-solid fa-code"></i> Developed with <i class="fa-solid fa-heart"></i> by <a href="https://fastxyz.dev" target="_blank">Fastxyz</a></p>
+				<p>
+					<i class="fa-solid fa-code"></i> Developed with <i class="fa-solid fa-heart"></i> by <a href="https://fastxyz.dev" target="_blank">Fastxyz</a>
+				</p>
 			</footer>
-		</div>
+		</main>
 
 		<script src="./js/main.js"></script>
 	</body>
