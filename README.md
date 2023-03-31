@@ -9,9 +9,9 @@
 <hr>
 
 <p align="center">
-	<a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  	<a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  	<a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#-about">About</a>
+  	<a href="#-preview">Preview</a>
+  	<a href="#-technologies">Technologies</a>
   	<a href="#-license">License</a>
 </p>
 
@@ -27,7 +27,7 @@ DevLinks is a link aggregator to use as an online business card, like <a href="h
 
 ## **🖼 Preview**
 
-<b>🟢 Link:</b> https://fastxyz.github.io/rocketseat-devlinks
+<b>🟢 Link:</b> <a target="_blank" href="https://fastxyz.github.io/rocketseat-devlinks" title="DevLinks">https://fastxyz.github.io/rocketseat-devlinks</a>
 
 <div align="center">
 <img src="https://i.imgur.com/qsYRXTq.jpg" alt="Desktop (Dark Theme)" draggable="false">
