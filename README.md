@@ -27,20 +27,22 @@ DevLinks is a link aggregator to use as an online business card, like <a href="h
 
 ## **🖼 Preview**
 
+<b>🟢 Link:</b> https://fastxyz.github.io/rocketseat-devlinks
+
 <div align="center">
-<img src="https://i.imgur.com/lXUKTdz.jpg" alt="Desktop (Dark Theme)" draggable="false">
+<img src="https://i.imgur.com/qsYRXTq.jpg" alt="Desktop (Dark Theme)" draggable="false">
 
 <br>
 
-<img src="https://i.imgur.com/wwhvpwc.jpg" alt="Desktop (Light Theme)" draggable="false">
+<img src="https://i.imgur.com/cSC8GYg.jpg" alt="Desktop (Light Theme)" draggable="false">
 
 <br>
 
-<img src="https://i.imgur.com/JCRMC4I.jpg" alt="Mobile (Dark Theme)" draggable="false">
+<img src="https://i.imgur.com/x6PqUYh.jpg" alt="Mobile (Dark Theme)" draggable="false">
 
 <br>
 
-<img src="https://i.imgur.com/x5D3Hrn.jpg" alt="Mobile (Light Theme)" draggable="false">
+<img src="https://i.imgur.com/NtnRfXW.jpg" alt="Mobile (Light Theme)" draggable="false">
 </div>
 
 <hr>
@@ -55,4 +57,4 @@ DevLinks is a link aggregator to use as an online business card, like <a href="h
 
 ## **📝 License**
 
-This project is licensed under the <a href="./LICENSE" target="blank">MIT</a> license.
+This project is licensed under the <a href="./LICENSE" target="blank">MIT</a> license
