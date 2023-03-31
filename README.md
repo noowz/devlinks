@@ -9,10 +9,10 @@
 <hr>
 
 <p align="center">
-	<a href="#-about">About</a>
-  	<a href="#-preview">Preview</a>
-  	<a href="#-technologies">Technologies</a>
-  	<a href="#-license">License</a>
+	<a href="#-about">About</a> |
+  	<a href="#-preview">Preview</a> |
+  	<a href="#-technologies">Technologies</a> |
+  	<a href="#-license">License</a> |
 </p>
 
 <hr>
