@@ -30,19 +30,19 @@ DevLinks is a link aggregator to use as an online business card, like <a href="h
 <b>🟢 Link:</b> <a target="_blank" href="https://fastxyz.github.io/rocketseat-devlinks" title="DevLinks">https://fastxyz.github.io/rocketseat-devlinks</a>
 
 <div align="center">
-<img src="https://i.imgur.com/hnE2zhD.jpg" alt="Desktop (Dark Theme)" draggable="false">
+<img src="https://i.imgur.com/QJhuOCw.jpg" alt="Desktop (Dark Theme)" draggable="false">
 
 <br>
 
-<img src="https://i.imgur.com/Qx2jNTn.jpg" alt="Desktop (Light Theme)" draggable="false">
+<img src="https://i.imgur.com/HpphRjx.jpg" alt="Desktop (Light Theme)" draggable="false">
 
 <br>
 
-<img src="https://i.imgur.com/QNW05i6.jpg" alt="Mobile (Dark Theme)" draggable="false">
+<img src="https://i.imgur.com/MNArq2e.jpg" alt="Mobile (Dark Theme)" draggable="false">
 
 <br>
 
-<img src="https://i.imgur.com/zGdpUCP.jpg" alt="Mobile (Light Theme)" draggable="false">
+<img src="https://i.imgur.com/vrDHANT.jpg" alt="Mobile (Light Theme)" draggable="false">
 </div>
 
 <hr>
