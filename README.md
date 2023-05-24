@@ -1,12 +1,10 @@
-<div align="center">
-	<p>
-		<a target="_blank" href="https://github.com/Fastxyz/rocketseat-devlinks" title="DevLinks">
-			<img src="https://i.imgur.com/uyjIoIK.png" width="256" alt="DevLinks" draggable="false">
-		</a>
-	</p>
-</div>
+<p align="center">
+	<a target="_blank" href="https://github.com/Fastxyz/rocketseat-devlinks" title="DevLinks">
+		<img src="https://i.imgur.com/uyjIoIK.png" width="256" alt="DevLinks" draggable="false">
+	</a>
+</p>
 
-<hr>
+---
 
 <p align="center">
 	<a href="#-about">About</a> |
@@ -15,7 +13,7 @@
   	<a href="#-license">License</a> |
 </p>
 
-<hr>
+---
 
 ## **📙 About**
 
@@ -23,7 +21,7 @@ This project is part of an exclusive and free program promoted by <a href="https
 
 DevLinks is a link aggregator to use as an online business card, like <a href="https://linktr.ee" target="_blank">Linktree</a>, <a href="https://ayo.so" target="_blank">Ayo</a> or <a href="https://carrd.co" target="_blank">Carrd</a>.
 
-<hr>
+---
 
 ## **🖼 Preview**
 
@@ -45,7 +43,7 @@ DevLinks is a link aggregator to use as an online business card, like <a href="h
 <img src="https://i.imgur.com/vrDHANT.jpg" alt="Mobile (Light Theme)" draggable="false">
 </div>
 
-<hr>
+---
 
 ## **🚀 Technologies**
 
@@ -53,7 +51,7 @@ DevLinks is a link aggregator to use as an online business card, like <a href="h
 <li>CSS</li>
 <li>JavaScript</li>
 
-<hr>
+---
 
 ## **📝 License**
 
