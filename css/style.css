@@ -8,12 +8,12 @@
 	:root {
 		--text-color: #FFFFFF;
 		--background-color: #36393F;
-		--share-button-icon: url(../assets/share_darkTheme.svg);
+		--share-button-icon: url(../img/share_darkTheme.svg);
 		--share-buton-background-color: #FFFFFF;
 		--share-button-icon-color-hover: rgba(255, 255, 255, 0.2);
 		--theme-switcher-span-background-color: #36393F;
 		--theme-switcher-span-color-hover: rgba(255, 255, 255, 0.2);
-		--theme-switcher-button-icon: url(../assets/moon.svg);
+		--theme-switcher-button-icon: url(../img/moon.svg);
 		--theme-switcher-button-icon-background-color: #FFFFFF;
 		--theme-switcher-button-icon-color-hover: rgba(255, 255, 255, 0.2);
 		--link-button-text-color: #FFFFFF;
@@ -25,12 +25,12 @@
 	.lightTheme {
 		--text-color: #000000;
 		--background-color: #FFFFFF;
-		--share-button-icon: url(../assets/share_lightTheme.svg);
+		--share-button-icon: url(../img/share_lightTheme.svg);
 		--share-buton-background-color: #000000;
 		--share-button-icon-color-hover: rgba(0, 0, 0, 0.2);
 		--theme-switcher-span-background-color: #FFFFFF;
 		--theme-switcher-span-color-hover: rgba(0, 0, 0, 0.2);
-		--theme-switcher-button-icon: url(../assets/sun.svg);
+		--theme-switcher-button-icon: url(../img/sun.svg);
 		--theme-switcher-button-icon-background-color: #000000;
 		--theme-switcher-button-icon-color-hover: rgba(0, 0, 0, 0.2);
 		--link-button-text-color: #FFFFFF;
@@ -216,12 +216,12 @@
 	:root {
 		--text-color: #000000;
 		--background-color: #FFFFFF;
-		--share-button-icon: url(../assets/share_lightTheme.svg);
+		--share-button-icon: url(../img/share_lightTheme.svg);
 		--share-buton-background-color: #000000;
 		--share-button-icon-color-hover: rgba(0, 0, 0, 0.2);
 		--theme-switcher-span-background-color: #FFFFFF;
 		--theme-switcher-span-color-hover: rgba(0, 0, 0, 0.2);
-		--theme-switcher-button-icon: url(../assets/sun.svg);
+		--theme-switcher-button-icon: url(../img/sun.svg);
 		--theme-switcher-button-icon-background-color: #000000;
 		--theme-switcher-button-icon-color-hover: rgba(0, 0, 0, 0.2);
 		--link-button-text-color: #FFFFFF;
@@ -233,12 +233,12 @@
 	.lightTheme {
 		--text-color: #FFFFFF;
 		--background-color: #36393F;
-		--share-button-icon: url(../assets/share_darkTheme.svg);
+		--share-button-icon: url(../img/share_darkTheme.svg);
 		--share-buton-background-color: #FFFFFF;
 		--share-button-icon-color-hover: rgba(255, 255, 255, 0.2);
 		--theme-switcher-span-background-color: #36393F;
 		--theme-switcher-span-color-hover: rgba(255, 255, 255, 0.2);
-		--theme-switcher-button-icon: url(../assets/moon.svg);
+		--theme-switcher-button-icon: url(../img/moon.svg);
 		--theme-switcher-button-icon-background-color: #FFFFFF;
 		--theme-switcher-button-icon-color-hover: rgba(255, 255, 255, 0.2);
 		--link-button-text-color: #FFFFFF;
