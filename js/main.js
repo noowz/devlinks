@@ -12,11 +12,11 @@ function share() {
 				url: 'https://fastxyz.github.io/rocketseat-devlinks'
 			});
 
-			console.log('You have shared the link successfully!');
+			console.info('You have shared the link successfully!');
 		} else {
 			alert('Your browser does not support the Web Share API!');
 		};
 	} catch (error) {
-		console.log(`An error occured while using the Web share API!\nError: ${error}`);
+		console.error(`An error occured while using the Web share API!\nError: ${error}`);
 	};
 };
