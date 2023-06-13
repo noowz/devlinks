@@ -4,7 +4,7 @@
 		padding: 0;
 		box-sizing: border-box;
 	}
-	
+
 	:root {
 		--text-color: #FFFFFF;
 		--background-color: #36393F;
@@ -21,7 +21,7 @@
 		--link-button-background-color-hover: #4752C4;
 		--social-media-icon-color-hover: rgba(255, 255, 255, 0.2);
 	}
-	
+
 	.lightTheme {
 		--text-color: #000000;
 		--background-color: #FFFFFF;
@@ -38,23 +38,23 @@
 		--link-button-background-color-hover: #4752C4;
 		--social-media-icon-color-hover: rgba(0, 0, 0, 0.2);
 	}
-	
+
 	body {
 		background-color: var(--background-color);
 	}
-	
+
 	body * {
 		font-family: "DM Sans", sans-serif;
 		color: var(--text-color);
 	}
-	
+
 	#container {
 		width: 100%;
 		max-width: 588px;
 		margin: 56px auto 0px;
 		padding: 0 24px;
 	}
-	
+
 	#share-button button {
 		display: inline-block;
 		position: absolute;
@@ -69,33 +69,33 @@
 		border: none;
 		border-radius: 50%;
 	}
-	
+
 	#share-button button:hover {
 		outline: 8px solid var(--share-button-icon-color-hover);
 	}
-	
+
 	#profile {
 		position: relative;
 		text-align: center;
 		padding: 24px 0;
 	}
-	
+
 	#profile img {
 		width: 112px;
 	}
-	
+
 	#profile p {
 		font-weight: 500;
 		line-height: 24px;
 		margin-top: 8px;
 	}
-	
+
 	#theme-switcher {
 		position: relative;
 		width: 64px;
 		margin: 4px auto;
 	}
-	
+
 	#theme-switcher button {
 		width: 32px;
 		height: 32px;
@@ -112,15 +112,15 @@
 		transform: translateY(-50%);
 		animation: slide-back 0.2s;
 	}
-	
+
 	.lightTheme #theme-switcher button {
 		animation: slide-in 0.2s forwards;
 	}
-	
+
 	#theme-switcher button:hover {
 		outline: 8px solid var(--theme-switcher-button-icon-color-hover);
 	}
-	
+
 	#theme-switcher span {
 		display: block;
 		width: 64px;
@@ -131,7 +131,7 @@
 		-webkit-backdrop-filter: blur(4px);
 		border-radius: 9999px;
 	}
-	
+
 	ul {
 		list-style: none;
 		display: flex;
@@ -139,7 +139,7 @@
 		gap: 16px;
 		padding: 24px 0;
 	}
-	
+
 	ul li a {
 		display: flex;
 		align-items: center;
@@ -154,18 +154,18 @@
 		font-weight: 500;
 		transition: background 0.2s;
 	}
-	
+
 	ul li a:hover {
 		background-color: var(--link-button-background-color-hover);
 	}
-	
+
 	#social-media {
 		display: flex;
 		justify-content: center;
 		padding: 24px 0;
 		font-size: 24px;
 	}
-	
+
 	#social-media a {
 		display: flex;
 		align-items: center;
@@ -174,17 +174,17 @@
 		transition: background 0.2s;
 		border-radius: 50%;
 	}
-	
+
 	#social-media a:hover {
 		background-color: var(--social-media-icon-color-hover);
 	}
-	
+
 	footer {
 		padding: 24px 0;
 		text-align: center;
 		font-size: 14px;
 	}
-	
+
 	@keyframes slide-in {
 		from {
 			left: 0;
@@ -194,7 +194,7 @@
 			left: 50%;
 		}
 	}
-	
+
 	@keyframes slide-back {
 		from {
 			left: 50%;
@@ -212,7 +212,7 @@
 		padding: 0;
 		box-sizing: border-box;
 	}
-	
+
 	:root {
 		--text-color: #000000;
 		--background-color: #FFFFFF;
@@ -229,7 +229,7 @@
 		--link-button-background-color-hover: #4752C4;
 		--social-media-icon-color-hover: rgba(0, 0, 0, 0.2);
 	}
-	
+
 	.lightTheme {
 		--text-color: #FFFFFF;
 		--background-color: #36393F;
@@ -246,23 +246,23 @@
 		--link-button-background-color-hover: #4752C4;
 		--social-media-icon-color-hover: rgba(255, 255, 255, 0.2);
 	}
-	
+
 	body {
 		background-color: var(--background-color);
 	}
-	
+
 	body * {
 		font-family: "DM Sans", sans-serif;
 		color: var(--text-color);
 	}
-	
+
 	#container {
 		width: 100%;
 		max-width: 588px;
 		margin: 56px auto 0px;
 		padding: 0 24px;
 	}
-	
+
 	#share-button button {
 		display: inline-block;
 		position: absolute;
@@ -277,33 +277,33 @@
 		border: none;
 		border-radius: 50%;
 	}
-	
+
 	#share-button button:hover {
 		outline: 8px solid var(--share-button-icon-color-hover);
 	}
-	
+
 	#profile {
 		position: relative;
 		text-align: center;
 		padding: 24px 0;
 	}
-	
+
 	#profile img {
 		width: 112px;
 	}
-	
+
 	#profile p {
 		font-weight: 500;
 		line-height: 24px;
 		margin-top: 8px;
 	}
-	
+
 	#theme-switcher {
 		position: relative;
 		width: 64px;
 		margin: 4px auto;
 	}
-	
+
 	#theme-switcher button {
 		width: 32px;
 		height: 32px;
@@ -320,15 +320,15 @@
 		transform: translateY(-50%);
 		animation: slide-back 0.2s;
 	}
-	
+
 	.lightTheme #theme-switcher button {
 		animation: slide-in 0.2s forwards;
 	}
-	
+
 	#theme-switcher button:hover {
 		outline: 8px solid var(--theme-switcher-button-icon-color-hover);
 	}
-	
+
 	#theme-switcher span {
 		display: block;
 		width: 64px;
@@ -339,7 +339,7 @@
 		-webkit-backdrop-filter: blur(4px);
 		border-radius: 9999px;
 	}
-	
+
 	ul {
 		list-style: none;
 		display: flex;
@@ -347,7 +347,7 @@
 		gap: 16px;
 		padding: 24px 0;
 	}
-	
+
 	ul li a {
 		display: flex;
 		align-items: center;
@@ -362,18 +362,18 @@
 		font-weight: 500;
 		transition: background 0.2s;
 	}
-	
+
 	ul li a:hover {
 		background-color: var(--link-button-background-color-hover);
 	}
-	
+
 	#social-media {
 		display: flex;
 		justify-content: center;
 		padding: 24px 0;
 		font-size: 24px;
 	}
-	
+
 	#social-media a {
 		display: flex;
 		align-items: center;
@@ -382,17 +382,17 @@
 		transition: background 0.2s;
 		border-radius: 50%;
 	}
-	
+
 	#social-media a:hover {
 		background-color: var(--social-media-icon-color-hover);
 	}
-	
+
 	footer {
 		padding: 24px 0;
 		text-align: center;
 		font-size: 14px;
 	}
-	
+
 	@keyframes slide-in {
 		from {
 			left: 0;
@@ -402,7 +402,7 @@
 			left: 50%;
 		}
 	}
-	
+
 	@keyframes slide-back {
 		from {
 			left: 50%;
