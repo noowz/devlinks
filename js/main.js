@@ -8,8 +8,8 @@ function share() {
 	try {
 		if (navigator.share) {
 			navigator.share({
-				title: 'Fastxyz | DevLinks',
-				url: 'https://fastxyz.github.io/rocketseat-devlinks'
+				title: 'Noowz | DevLinks',
+				url: 'https://noowz.github.io/rocketseat-devlinks'
 			});
 
 			console.info('You have shared the link successfully!');

@@ -1,5 +1,5 @@
 <p align="center">
-	<a target="_blank" href="https://github.com/Fastxyz/rocketseat-devlinks" title="DevLinks">
+	<a target="_blank" href="https://github.com/noowz/rocketseat-devlinks" title="DevLinks">
 		<img src="https://i.imgur.com/uyjIoIK.png" width="256" alt="DevLinks" draggable="false">
 	</a>
 </p>
@@ -25,22 +25,22 @@ DevLinks is a link aggregator to use as an online business card, like <a href="h
 
 ## **🖼 Preview**
 
-<b>🟢 Link:</b> <a target="_blank" href="https://fastxyz.github.io/rocketseat-devlinks" title="DevLinks">https://fastxyz.github.io/rocketseat-devlinks</a>
+<b>🟢 Link:</b> <a target="_blank" href="https://noowz.github.io/rocketseat-devlinks" title="DevLinks">https://noowz.github.io/rocketseat-devlinks</a>
 
 <div align="center">
-<img src="https://i.imgur.com/QJhuOCw.jpg" alt="Desktop (Dark Theme)" draggable="false">
+<img src="https://i.imgur.com/DhygT1b.png" alt="Desktop (Dark Theme)" draggable="false">
 
 <br>
 
-<img src="https://i.imgur.com/HpphRjx.jpg" alt="Desktop (Light Theme)" draggable="false">
+<img src="https://i.imgur.com/VYT8X3Y.png" alt="Desktop (Light Theme)" draggable="false">
 
 <br>
 
-<img src="https://i.imgur.com/MNArq2e.jpg" alt="Mobile (Dark Theme)" draggable="false">
+<img src="https://i.imgur.com/sjegNke.png" alt="Mobile (Dark Theme)" draggable="false">
 
 <br>
 
-<img src="https://i.imgur.com/vrDHANT.jpg" alt="Mobile (Light Theme)" draggable="false">
+<img src="https://i.imgur.com/B2olp03.png" alt="Mobile (Light Theme)" draggable="false">
 </div>
 
 ---

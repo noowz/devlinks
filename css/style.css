@@ -81,7 +81,10 @@
 	}
 
 	#profile img {
+		max-width: 112px;
 		width: 112px;
+		height: auto;
+		content: url('../img/avatar_darkTheme.png');
 	}
 
 	#profile p {
@@ -289,7 +292,10 @@
 	}
 
 	#profile img {
+		max-width: 112px;
 		width: 112px;
+		height: auto;
+		content: url('../img/avatar_lightTheme.png');
 	}
 
 	#profile p {
