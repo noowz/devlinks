@@ -25,7 +25,7 @@ DevLinks is a link aggregator to use as an online business card, like <a href="h
 
 ## **🖼 Preview**
 
-<b>🟢 Link:</b> <a target="_blank" href="https://noowz.github.io/rocketseat-devlinks" title="DevLinks">https://noowz.github.io/rocketseat-devlinks</a>
+<b>🟢 Link:</b> <a target="_blank" href="https://noowz-devlinks.pages.dev" title="DevLinks">https://noowz-devlinks.pages.dev</a>
 
 <div align="center">
 <img src="https://i.imgur.com/DhygT1b.png" alt="Desktop (Dark Theme)" draggable="false">

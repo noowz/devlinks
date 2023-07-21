@@ -9,7 +9,7 @@ function share() {
 		if (navigator.share) {
 			navigator.share({
 				title: 'Noowz | DevLinks',
-				url: 'https://noowz.github.io/rocketseat-devlinks'
+				url: 'https://noowz-devlinks.pages.dev'
 			});
 
 			console.info('You have shared the link successfully!');
