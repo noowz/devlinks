@@ -1,5 +1,5 @@
 <p align="center">
-	<a target="_blank" href="https://github.com/noowz/rocketseat-devlinks" title="DevLinks">
+	<a target="_blank" href="https://github.com/noowz/devlinks" title="DevLinks">
 		<img src="https://i.imgur.com/uyjIoIK.png" width="256" alt="DevLinks" draggable="false">
 	</a>
 </p>
