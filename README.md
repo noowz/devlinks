@@ -1,10 +1,4 @@
-<p align="center">
-	<a target="_blank" href="https://github.com/noowz/devlinks" title="DevLinks">
-		<img src="https://i.imgur.com/uyjIoIK.png" width="256" alt="DevLinks" draggable="false">
-	</a>
-</p>
-
----
+<h1 align="center">DEVLINKS</h1>
 
 <p align="center">
 	<a href="#-about">About</a> |
@@ -19,7 +13,7 @@
 
 This project is part of an exclusive and free program promoted by <a href="https://rocketseat.com.br" target="_blank">Rocketseat</a> for teaching Web technologies.
 
-DevLinks is a link aggregator to use as an online business card, like <a href="https://linktr.ee" target="_blank">Linktree</a>, <a href="https://ayo.so" target="_blank">Ayo</a> or <a href="https://carrd.co" target="_blank">Carrd</a>.
+This project is a link aggregator to use as an online business card, like <a href="https://linktr.ee" target="_blank">Linktree</a>, <a href="https://ayo.so" target="_blank">Ayo</a> or <a href="https://carrd.co" target="_blank">Carrd</a>.
 
 ---
 

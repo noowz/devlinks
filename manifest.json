@@ -1,0 +1,19 @@
+{
+	"name": "Noowz | DevLinks",
+	"short_name": "Noowz | DevLinks",
+	"description": "Link aggregator to use as an online business card.",
+	"start_url": "index.html",
+	"theme_color": "#5865F2",
+	"background_color": "#36393F",
+	"orientation": "any",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "img/favicon.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		}
+	],
+	"lang": "en",
+	"scope": "/"
+}
