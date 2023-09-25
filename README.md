@@ -19,7 +19,7 @@ This project is a link aggregator to use as an online business card, like <a hre
 
 ## **🖼 Preview**
 
-<b>🟢 Link:</b> <a target="_blank" href="https://noowz-devlinks.pages.dev" title="DevLinks">https://noowz-devlinks.pages.dev</a>
+<b>🟢 Link:</b> <a target="_blank" href="https://noowz-devlinks.vercel.app" title="DevLinks">https://noowz-devlinks.vercel.app</a>
 
 <div align="center">
 <img src="https://i.imgur.com/DhygT1b.png" alt="Desktop (Dark Theme)" draggable="false">
